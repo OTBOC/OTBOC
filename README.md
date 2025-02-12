@@ -31,7 +31,7 @@
 ---
 
 ## 🤝 Connect With Me  
-🔗 **LinkedIn:** www.linkedin.com/in/dataintegrationpro(#)  
+🔗 **LinkedIn:** www.linkedin.com/in/dataintegrationpro 
 📧 **Email:** [dwayne-lewis@att.net](mailto:dwayne-lewis@att.net)  
 
 ---
